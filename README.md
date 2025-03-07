@@ -115,6 +115,9 @@ print(len(X_test))
 
 ![Screenshot 2025-03-07 180410](https://github.com/user-attachments/assets/8524a558-f8fe-4f25-9317-9e1d1a01c680)
 
+![Screenshot 2025-03-07 181328](https://github.com/user-attachments/assets/310323b5-c36e-46d4-8d79-d1340ee20a71)
+
+
 
 
 
